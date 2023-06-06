@@ -1,20 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T13:28:31.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.931 (corp) Yowser/2.5 Safari/537.36" etag="SJON6n-lVWwZ3LJDMvdM" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T13:40:08.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.931 (corp) Yowser/2.5 Safari/537.36" etag="l-XGq0Km_t5aeqwAQAAN" version="21.3.7" type="github">
   <diagram name="Страница 1" id="1hpVTG3tmX8mUanP7hNh">
     <mxGraphModel dx="1144" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BszqWpOFq4eaZOkGthAI-3" value="UNICODE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BszqWpOFq4eaZOkGthAI-4" value="ASCII" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="640" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="BszqWpOFq4eaZOkGthAI-6" value="Скрытая атака (Steganography-based)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="600" width="240" height="40" as="geometry" />
+          <mxGeometry x="360" y="560" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BszqWpOFq4eaZOkGthAI-9" value="Xiaoyi Chen et. al.,&amp;nbsp;BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="720" width="240" height="80" as="geometry" />
+          <mxGeometry x="20" y="720" width="900" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BszqWpOFq4eaZOkGthAI-12" value="Явная атака (Bad char)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37" y="560" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BszqWpOFq4eaZOkGthAI-13" value="Позиция в тексте&lt;br&gt;(начало, середина, конец)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=-40;" vertex="1" parent="1">
+          <mxGeometry x="18" y="640" width="141" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BszqWpOFq4eaZOkGthAI-14" value="Дистанция (векторы) до изменяемого слова" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=-30;" vertex="1" parent="1">
+          <mxGeometry x="158" y="640" width="141" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BszqWpOFq4eaZOkGthAI-15" value="Семантическая подмена на основе словаря (аля В.Даль)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BszqWpOFq4eaZOkGthAI-16" value="UNICODE&lt;br&gt;(24 непечатных символа)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=-40;" vertex="1" parent="1">
+          <mxGeometry x="338" y="640" width="141" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BszqWpOFq4eaZOkGthAI-17" value="ASCII&lt;br&gt;(31 непечатный управляющий символ)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=-30;" vertex="1" parent="1">
+          <mxGeometry x="478" y="640" width="141" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
