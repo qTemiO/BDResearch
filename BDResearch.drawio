@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T12:07:29.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.931 (corp) Yowser/2.5 Safari/537.36" etag="2hZinp5lbPG0mt5_V37A" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T12:49:18.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.931 (corp) Yowser/2.5 Safari/537.36" etag="Er2D-_7n4jt3KsuPkeTE" version="21.3.8" type="github">
   <diagram name="Страница 1" id="1hpVTG3tmX8mUanP7hNh">
-    <mxGraphModel dx="1413" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,10 @@
         <mxCell id="SrPJYKcLf3ABmoYixHYb-3" value="Связанные по контексту, но являющиеся триггерами&lt;br&gt;(За счет времени, склонений и т.д.)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=-30;" parent="1" vertex="1">
           <mxGeometry x="980" y="640" width="141" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Fn2REUl8gp9c8fhYe_l-1" value="Синтаксические &lt;br&gt;вставки &lt;br&gt;(палевно)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=-40;" vertex="1" parent="1">
+        <mxCell id="7Fn2REUl8gp9c8fhYe_l-1" value="Синтаксические &lt;br&gt;вставки &lt;br&gt;(палевно)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=-40;" parent="1" vertex="1">
           <mxGeometry x="1102" y="562" width="141" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Fn2REUl8gp9c8fhYe_l-2" value="Wenkai Yang et. al., Rethinking Stealthiness of Backdoor Attack against NLP Models&lt;br&gt;&amp;nbsp;&lt;br&gt;модели - Bert (IMDB + Amazon)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="7Fn2REUl8gp9c8fhYe_l-2" value="Wenkai Yang et. al., Rethinking Stealthiness of Backdoor Attack against NLP Models&lt;br&gt;&amp;nbsp;&lt;br&gt;модели - Bert (IMDB + Amazon)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1243" y="562" width="403" height="80" as="geometry" />
         </mxCell>
       </root>
